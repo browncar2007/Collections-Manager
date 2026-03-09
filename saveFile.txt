@@ -1,0 +1,6 @@
+Pokemon level: 25
+Pokemon name: Pikachu
+Pokemon abilities: [ThunderBolt, Volt Tackle, Extreme Speed, Static]
+Pokemon type(s): [Electric]
+Pokemon species: Mouse Pokemon
+

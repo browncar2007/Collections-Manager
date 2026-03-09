@@ -1,0 +1,17 @@
+Pokemon level: 100
+Pokemon name: Charizard
+Pokemon abilities: [Flare Blitz, Flamethrower, Dragon Dance, Fly]
+Pokemon type(s): [Flying, Fire]
+Pokemon species: Flame Pokemon
+
+Pokemon level: 101
+Pokemon name: Greninja
+Pokemon abilities: [Water Shuriken, Substitute, Hydro Pump, Acrobatics]
+Pokemon type(s): [Flying, Fire]
+Pokemon species: Ninja Pokemon
+
+Pokemon level: 99
+Pokemon name: Serperior
+Pokemon abilities: [Leaf Storm, Giga Drain, Double Team, Gastro Acid]
+Pokemon type(s): [Grass]
+Pokemon species: Regal Pokemon

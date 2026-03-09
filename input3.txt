@@ -1,0 +1,29 @@
+Pokemon level: 72
+Pokemon name: Groudon
+Pokemon abilities: [Heat Crash, Fissure, Lava Plume, Dragon Claw]
+Pokemon type(s): [Ground]
+Pokemon species: Continent Pokemon
+
+Pokemon level: 6
+Pokemon name: Pancham
+Pokemon abilities: [Crunch, Detect, Brick Break, Shadow Claw]
+Pokemon type(s): [Fighting]
+Pokemon species: Playful Pokemon
+
+Pokemon level: 30
+Pokemon name: Slorlax
+Pokemon abilities: [Belly Drum, Hammer Arm, Yawn, Rest]
+Pokemon type(s): [Normal]
+Pokemon species: Sleeping Pokemon
+
+Pokemon level: 99
+Pokemon name: Bidoof
+Pokemon abilities: [Aqua Tail, Bite, Double-Edge, Rock Smash]
+Pokemon type(s): [Normal]
+Pokemon species: Plump Mouse Pokemon
+
+Pokemon level: 40
+Pokemon name: Mamoswine
+Pokemon abilities: [Ancient Power, Icy Wind, Blizzard, Thrash]
+Pokemon type(s): [Ice, Ground]
+Pokemon species: Twin Tusk Pokemon

@@ -1,0 +1,5 @@
+Pokemon level: 100
+Pokemon name: Arceus
+Pokemon abilities: [Cosmic Power, Judgment, Future Sight, Hyper Beam]
+Pokemon type(s): [Normal]
+Pokemon species: Alpha Pokemon

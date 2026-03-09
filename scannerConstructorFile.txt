@@ -1,0 +1,6 @@
+Pokemon level: 50
+Pokemon name: Charizard
+Pokemon abilities: [Blaze]
+Pokemon type(s): [Fire]
+Pokemon species: Flame Pokemon
+
